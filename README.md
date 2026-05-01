@@ -3,7 +3,6 @@
 > 🍏 Frescura natural, calidad real
 Una experiencia moderna para descubrir, explorar y disfrutar frutas con información clara, visual y confiable.
 ---
-<img src="imagenes/FrutasAlegresLogo.png" width="50"/>
 
 🌿 Descripción
 
@@ -20,55 +19,42 @@ Una experiencia moderna para descubrir, explorar y disfrutar frutas con informac
 
 ---
 
-🎯 Objetivo
+# 🌾 Nuestro Objetivo !!
 
-🍓 Mostrar frutas con información real y útil
+Proyecto de Preparatoria sobre paginas web
 
-🌱 Ofrecer una experiencia visual limpia
+Vender un producto, para el dia a dia
 
-🛒 Servir como base para e-commerce
+Entender como funciona una web
 
-🌻 Promover hábitos saludables
-
-
-
----
-
-🖼️ Vista previa
-
-
-
-> 🎨 Diseño minimalista con tonos verde suave y negro sobre fondo blanco.
-
+ Promover hábitos saludables
 
 
 
 ---
 
-⚙️ Tecnologías
+<img src="imagenes/FrutasAlegresLogo.png" width="520"/>
 
-🌐 HTML5 — Estructura semántica
 
-🎨 CSS3 — Diseño moderno y responsivo
 
-⚡ JavaScript — Interactividad dinámica
 
-🧩 Arquitectura modular — Código organizado
+> 🌱 Diseño minimalista con tonos verde suave y negro sobre fondo blanco.
+
 
 
 
 ---
 
-🚀 Instalación
+**Codigo** (v1.0.0)
 
-# Clonar repositorio
-git clone https://github.com/eduxz-gxx/FrutasAlegres.git
+HTML5 — Estructura semántica
 
-# Entrar al proyecto
-cd FrutasAlegres
+CSS3 — Diseño moderno y responsivo
 
-# Abrir en navegador
-index.html
+JavaScript — Interactividad dinámica
+
+> Arquitectura modular — Código organizado
+
 
 > 🍍 No requiere dependencias — listo para usar.
 
@@ -91,60 +77,3 @@ FrutasAlegres/
 └── README.md
 
 > 🌾 Organización pensada para escalar fácilmente.
-
-
-
-
----
-
-🌐 Demo
-
-🏝️ Próximamente disponible
-Puedes desplegarlo en GitHub Pages o cualquier hosting estático.
-
-
----
-
-🤝 Contribuciones
-
-¿Quieres aportar?
-
-1. Haz un fork
-
-
-2. Crea una rama (feature/nueva-funcionalidad)
-
-
-3. Haz commit
-
-
-4. Abre un Pull Request
-
-
-
-
----
-
-📄 Licencia
-
-MIT — libre para usar, modificar y distribuir.
-
-
----
-
-✨ Más que un proyecto
-
-Frutas Alegres no es solo código, es una forma moderna de representar productos naturales.
-
-Perfecto para:
-
-🍊 Catálogos digitales
-🛒 Tiendas online
-📱 Proyectos educativos
-🌱 Marcas naturales
-
-
-
----
-
-> 🍒 Diseñado con simplicidad, pensado para destacar.
