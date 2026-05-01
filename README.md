@@ -3,6 +3,7 @@
 > 🍏 Frescura natural, calidad real
 Una experiencia moderna para descubrir, explorar y disfrutar frutas con información clara, visual y confiable.
 ---
+<img src="imagenes/FrutasAlegresLogo.png" width="50"/>
 
 🌿 Descripción
 
