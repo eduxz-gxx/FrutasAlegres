@@ -4,7 +4,7 @@
 Una experiencia moderna para descubrir, explorar y disfrutar frutas con información clara, visual y confiable.
 ---
 
-> 🌻 Pagina ( Github ) :
+> 🌻 Pagina ( Github ) : https://eduxz-gxx.github.io/FrutasAlegres/
 
 > by NexusTeam 2025-2026 🍒
 
