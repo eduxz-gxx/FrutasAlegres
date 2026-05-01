@@ -4,6 +4,10 @@
 Una experiencia moderna para descubrir, explorar y disfrutar frutas con información clara, visual y confiable.
 ---
 
+> 🌻 Pagina ( Github ) :
+
+> by NexusTeam 2025-2026 🍒
+
 🌿 Descripción
 
 **Frutas Alegres** es un proyecto web diseñado para presentar frutas de forma atractiva, informativa y moderna. Combina un enfoque minimalista con contenido útil, logrando una experiencia:
