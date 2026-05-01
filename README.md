@@ -1,4 +1,4 @@
-#🌱 Frutas Alegres
+# 🌱 Frutas Alegres
 
 > 🍏 Frescura natural, calidad real
 Una experiencia moderna para descubrir, explorar y disfrutar frutas con información clara, visual y confiable.
@@ -6,18 +6,15 @@ Una experiencia moderna para descubrir, explorar y disfrutar frutas con informac
 
 🌿 Descripción
 
-Frutas Alegres es un proyecto web diseñado para presentar frutas de forma atractiva, informativa y moderna.
+**Frutas Alegres** es un proyecto web diseñado para presentar frutas de forma atractiva, informativa y moderna. Combina un enfoque minimalista con contenido útil, logrando una experiencia:
 
-Combina un enfoque minimalista con contenido útil, logrando una experiencia:
+> Clara
 
-Clara
+> Ligera
 
-Ligera
+> Visualmente agradable
 
-Visualmente agradable
-
-
-Ideal como base para catálogos, tiendas o proyectos educativos.
+> Ideal como base para catálogos, tiendas o proyectos educativos.
 
 
 ---
@@ -141,11 +138,8 @@ Frutas Alegres no es solo código, es una forma moderna de representar productos
 Perfecto para:
 
 🍊 Catálogos digitales
-
 🛒 Tiendas online
-
 📱 Proyectos educativos
-
 🌱 Marcas naturales
 
 
@@ -153,26 +147,3 @@ Perfecto para:
 ---
 
 > 🍒 Diseñado con simplicidad, pensado para destacar.
-
-
-
-
----
-
-🔥 Qué mejoré (para que aprendas)
-
-Quité exceso de emojis → ahora solo decoran, no distraen
-
-Agregué negritas estratégicas
-
-Mejoré espacios y jerarquía
-
-Convertí frases en bloques visuales (tipo GitHub moderno)
-
-Evité texto repetitivo
-
-
-
----
-
-Si quieres, bro, en el siguiente paso te lo dejo nivel pro con badges, botones y animaciones tipo repos top de GitHub 😏
